@@ -1,0 +1,7 @@
+{
+
+	"Rice":[{"name":"Basmati Rice","weight":10,"price":110},
+		{"name":"White Rice","weight":50,"price":50},
+		{"name":"Brown Rice","weight":25,"price":140}],
+		
+}

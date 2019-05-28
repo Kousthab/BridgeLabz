@@ -1,0 +1,23 @@
+{
+
+	"Number": 10,
+	"String": "I am legend",
+	"Boolean": true,
+	"Object":{
+		"Object Number": 23,
+		"Object String": "I am in the object"
+	
+	},
+	"Array":[
+		"String in Array",
+		300,
+		false,
+		{
+			"Array Object String" : "Objects in arrays do not need names"
+		}
+	
+	]
+	
+
+
+}

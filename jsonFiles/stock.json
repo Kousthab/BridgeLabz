@@ -1,0 +1,30 @@
+{
+	"Stock":
+	[	
+		{
+			"Stock_Name": "TCS",
+			"Number_Of_Shares": 25,
+			"Share_Prize": 50 
+		},
+		
+		{
+			"Stock_Name": "Wipro",
+			"Number_Of_Shares": 30,
+			"Share_Prize": 55
+		},
+		
+		{
+			"Stock_Name": "Accenture",
+			"Number_Of_Shares": 20,
+			"Share_Prize": 45
+		},
+		
+		{
+			"Stock_Name": "Infosys",
+			"Number_Of_Shares": 35,
+			"Share_Prize": 25
+		}
+		
+	]
+	
+}

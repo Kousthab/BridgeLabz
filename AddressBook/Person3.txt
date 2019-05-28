@@ -1,0 +1,1 @@
+[{"name":"Kousthab","phnNo":"12345678951","address":{"streetName":"78","buildingName":"qwerty","zipCode":"700074","city":"Kolkata","state":"WB"}},{"name":"KK","phnNo":"7894561231","address":{"streetName":"78","buildingName":"qwerty","zipCode":"700074","city":"Kolkata","state":"WB"}}]
