@@ -14,9 +14,9 @@ public class PrototypePatternDriver {
 		Employees emp2=(Employees)emps.clone();
 		
 		List<String> list1=emp1.geEmpList();
-		list1.add("Dhriti");
+		list1.add("qwerty");
 		List<String> list2=emp2.geEmpList();
-		list2.add("Varsha");
+		list2.add("asdfgh");
 		
 		System.out.println("emps: "+emps.geEmpList());
 		System.out.println("emp1: "+list1);
